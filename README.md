@@ -37,7 +37,7 @@ The directories and files should be listed as below:
 # Architecture
 
 UNet is used as architecture. I customized it a little. About 2 million Parameters.
-![alt text](https://github.com/MuhammedBuyukkinaci/TensorFlow-Image-Classification-Convolutional-Neural-Networks/blob/master/alexnet_architecture.png) 
+![alt text](https://miro.medium.com/max/5998/1*eKrh8FqJL3jodebYlielNg.png) 
 
 # Predictions
 Predictions for some testing images are below.
