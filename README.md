@@ -15,7 +15,7 @@ If you want to train from scratch:
 
 ```bash run_from_scratch.sh ```
 
-If you want to train from scratch:
+If you don't want to train from scratch:
 
 ```bash run_from_pretrained.sh ```
 
